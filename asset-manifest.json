@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trending-movies/static/css/main.19aa6adb.css",
-    "main.js": "/Trending-movies/static/js/main.d818e541.js",
+    "main.js": "/Trending-movies/static/js/main.d282aefe.js",
     "static/js/415.f0a2225c.chunk.js": "/Trending-movies/static/js/415.f0a2225c.chunk.js",
     "static/js/244.05a258f9.chunk.js": "/Trending-movies/static/js/244.05a258f9.chunk.js",
     "static/js/575.a891d40e.chunk.js": "/Trending-movies/static/js/575.a891d40e.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/583.085210c9.chunk.js": "/Trending-movies/static/js/583.085210c9.chunk.js",
     "index.html": "/Trending-movies/index.html",
     "main.19aa6adb.css.map": "/Trending-movies/static/css/main.19aa6adb.css.map",
-    "main.d818e541.js.map": "/Trending-movies/static/js/main.d818e541.js.map",
+    "main.d282aefe.js.map": "/Trending-movies/static/js/main.d282aefe.js.map",
     "415.f0a2225c.chunk.js.map": "/Trending-movies/static/js/415.f0a2225c.chunk.js.map",
     "244.05a258f9.chunk.js.map": "/Trending-movies/static/js/244.05a258f9.chunk.js.map",
     "575.a891d40e.chunk.js.map": "/Trending-movies/static/js/575.a891d40e.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.19aa6adb.css",
-    "static/js/main.d818e541.js"
+    "static/js/main.d282aefe.js"
   ]
 }
